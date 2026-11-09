@@ -2,7 +2,7 @@
 window.SCHATZ={
  "id": "wald",
  "titel": "Die verlorene Vorratskammer",
- "gas": "",
+ "gas": "https://script.google.com/macros/s/AKfycbwWuaLFJjG51JEIgUBiCpAChmG5HLD3kVi0L6t-JGsS-f_fGpae15NGe0_IW4jye56-iw/exec",
  "team": null,
  "finale": "Die Vorratskammer ist wieder voll! Ihr seid echte Waldhüter! 🌰",
  "confetti": [

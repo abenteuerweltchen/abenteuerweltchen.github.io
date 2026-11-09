@@ -2,7 +2,7 @@
 window.SCHATZ={
  "id": "weihnachten",
  "titel": "Krümels Weihnachtsbäckerei",
- "gas": "",
+ "gas": "https://script.google.com/macros/s/AKfycbxB3fukRLOQuobqsmBCPhmy_Cq482DxDrmyZz1Bym5FX_RdGPPCy03i1WpZj1Kp19KO/exec",
  "team": null,
  "finale": "Alle Zutaten sind da! Frohe Weihnachten, liebes Backstuben-Team! 🍪",
  "confetti": [

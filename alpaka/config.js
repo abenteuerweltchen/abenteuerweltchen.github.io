@@ -2,7 +2,7 @@
 window.SCHATZ={
  "id": "alpaka",
  "titel": "Wo ist das Alpaka Luna?",
- "gas": "",
+ "gas": "https://script.google.com/macros/s/AKfycbw2xffGKyK6kNFpczMgBkdjQ6q2onLKhnGY40DCjQSQgugUyjJDzconQ3omAPQA_u5s/exec",
  "team": {
   "m": "Alpaka-Hüter",
   "w": "Alpaka-Hüterin"

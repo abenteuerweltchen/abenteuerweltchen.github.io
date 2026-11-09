@@ -1,0 +1,260 @@
+{
+ "id": "wald",
+ "titel": "Die verlorene Vorratskammer",
+ "untertitel": "Die Wald-Schatzsuche mit Emil und Iwan",
+ "voices": {
+  "E": {
+   "id": "DaXE5FbieScmZnfgrnGN",
+   "name": "Eichhörnchen Emil",
+   "img": "emil"
+  },
+  "I": {
+   "id": "NT4qTjyuooGOF1bsEK79",
+   "name": "Igel Iwan",
+   "img": "iwan"
+  }
+ },
+ "theme_color": "#6f8f5a",
+ "cover_alt": "Eichhörnchen Emil und Igel Iwan im Wald",
+ "karte": "Die Spur durch den Wald",
+ "figuren": "Eichhörnchen Emil und Igel Iwan",
+ "finale": "Die Vorratskammer ist wieder voll! Ihr seid echte Waldhüter! 🌰",
+ "confetti": [
+  "#c97b3a",
+  "#6f8f5a",
+  "#e7b04a",
+  "#9b5a3c",
+  "#a9c47f"
+ ],
+ "gas": "",
+ "botschaften": [
+  {
+   "nr": 1,
+   "seite": 3,
+   "wer": "E",
+   "titel": "Ein Hilferuf aus dem Unterholz",
+   "bild": "emil",
+   "aufgabe": "Die Waldhüter-Ausweise ausschneiden und ausfüllen – jedes Kind bekommt einen.",
+   "teile": [
+    {
+     "v": "E",
+     "p": true,
+     "t": "[excited] Hallo {NAME}! Ich bin Eichhörnchen Emil!"
+    },
+    {
+     "v": "I",
+     "t": "Und ich bin Iwan, der Igel. Hallo, liebes Team!"
+    },
+    {
+     "v": "E",
+     "t": "Iwan und ich leben im Wald am Stadtrand – und wir haben ein großes Problem: Gestern waren wir den ganzen Tag am Fluss, und als wir zurückkamen, waren alle unsere Wintervorräte verschwunden!"
+    },
+    {
+     "v": "I",
+     "t": "[sighs] Alle Nüsse, alle Eicheln, einfach alles weg."
+    },
+    {
+     "v": "E",
+     "t": "Wir brauchen mutige Entdecker wie dich und dein Team, um den Wald zu durchkämmen."
+    },
+    {
+     "v": "E",
+     "p": true,
+     "t": "{NAME}, ich habe gehört, dass du besonders mutig und schlau bist. Kannst du die Suchgruppe anführen?"
+    },
+    {
+     "v": "I",
+     "t": "Zuerst brauchen wir Waldhüter-Ausweise für euch alle – damit jeder weiß, dass ihr auf einer wichtigen Suchmission seid."
+    }
+   ],
+   "qr": {
+    "x": 720,
+    "y": 28
+   }
+  },
+  {
+   "nr": 2,
+   "seite": 6,
+   "wer": "E",
+   "titel": "Spuren im Wald",
+   "bild": "spuren",
+   "aufgabe": "Spurenleser-Spiel: Jede Fußspur dem richtigen Waldtier zuordnen.",
+   "teile": [
+    {
+     "v": "E",
+     "p": true,
+     "t": "[excited] {NAME} und Iwan, schaut nur!"
+    },
+    {
+     "v": "E",
+     "t": "[excited] Ich habe von oben aus den Bäumen ein paar Fußspuren entdeckt, die von unserem Versteck für die Wintervorräte wegführen!"
+    },
+    {
+     "v": "I",
+     "t": "Hm. Da sind aber ganz verschiedene Spuren. Wir müssen herausfinden, welche Spur zu welchem Tier gehört, um der richtigen Fährte zu folgen."
+    },
+    {
+     "v": "E",
+     "t": "Waldhüter, seid ihr bereit?"
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 3,
+   "seite": 9,
+   "wer": "I",
+   "titel": "Flink wie ein Waldtier",
+   "bild": "kinder",
+   "aufgabe": "Bewegungsspiel: Balancieren, Hüpfen und Slalom – flink wie echte Waldtiere.",
+   "teile": [
+    {
+     "v": "E",
+     "t": "Neben der Fußspur des Wildschweins liegen ein paar Walnussschalen. Ich glaube, wir müssen dieser Spur folgen!"
+    },
+    {
+     "v": "I",
+     "p": true,
+     "t": "Gut beobachtet! {NAME}, du und dein Team – um der Spur zu folgen, müsst ihr flink wie echte Waldtiere sein."
+    },
+    {
+     "v": "E",
+     "t": "[excited] Los, lasst uns ein paar Übungen machen!"
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 4,
+   "seite": 11,
+   "wer": "E",
+   "titel": "Zeit für einen Snack",
+   "bild": "snack",
+   "aufgabe": "Snack-Sammelspiel: Alle versteckten Waldfrüchte und Nüsse finden.",
+   "teile": [
+    {
+     "v": "E",
+     "p": true,
+     "t": "Oh Mann, {NAME}!"
+    },
+    {
+     "v": "E",
+     "t": "Durch das ganze Laufen und Hüpfen fängt mein Magen richtig an zu knurren. Wir sollten einen kleinen Snack essen."
+    },
+    {
+     "v": "I",
+     "t": "[chuckles] Du hast recht, Emil. Im Wald gibt es so viele Früchte und Nüsse! Gestern habe ich einen ganzen Strauch voller Himbeeren gefuttert. Wir müssen nur die Augen offen halten!"
+    }
+   ],
+   "qr": {
+    "x": 720,
+    "y": 28
+   }
+  },
+  {
+   "nr": 5,
+   "seite": 14,
+   "wer": "I",
+   "titel": "Leise wie kleine Waldmäuse",
+   "bild": "maus",
+   "aufgabe": "Tannenzapfen-Wettrennen: Den Zapfen auf dem Kopf ins Ziel balancieren.",
+   "teile": [
+    {
+     "v": "I",
+     "p": true,
+     "t": "[whispers] Schau nur, {NAME}!"
+    },
+    {
+     "v": "I",
+     "t": "[whispers] Und ihr alle vom Waldhüter-Team: Da vorne bei der Lichtung liegen unsere Wintervorräte! Und daneben liegt doch tatsächlich das Wildschwein und schläft."
+    },
+    {
+     "v": "E",
+     "t": "[whispers] Psst, ganz leise! Wir schleichen uns vorsichtig an, um das Wildschwein nicht zu wecken. Wahrscheinlich wusste es gar nicht, dass die Vorräte uns gehören."
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 6,
+   "seite": 16,
+   "wer": "E",
+   "titel": "Ein brummiger Waldbewohner",
+   "bild": "wildschwein",
+   "aufgabe": "Vorräte-Staffel: Die Vorräte mit dem Löffel zurück in die Kammer tragen.",
+   "teile": [
+    {
+     "v": "E",
+     "p": true,
+     "t": "[surprised] Oh nein, {NAME}! Das Wildschwein ist aufgewacht!"
+    },
+    {
+     "v": "I",
+     "t": "Es reibt sich verschlafen die Augen und brummt: Oh, das tut mir leid! Ich dachte, die Nüsse hätte jemand verloren."
+    },
+    {
+     "v": "E",
+     "t": "[relieved] Puh – es ist gar nicht böse, sondern richtig freundlich!"
+    },
+    {
+     "v": "I",
+     "t": "Jetzt müssen wir nur noch alle Vorräte zurück in unsere Vorratskammer bringen. Das schaffen wir nur mit vereinten Kräften. Waldhüter, helft ihr uns beim Tragen?"
+    }
+   ],
+   "qr": {
+    "x": 373,
+    "y": 28
+   }
+  },
+  {
+   "nr": 7,
+   "seite": 18,
+   "wer": "E",
+   "titel": "Die Vorratskammer ist wieder voll",
+   "bild": "truhe",
+   "aufgabe": "Den Spuren zum Schatz folgen und die Waldhüter-Urkunden verteilen.",
+   "teile": [
+    {
+     "v": "E",
+     "p": true,
+     "t": "[excited] Hurra, {NAME}! Geschafft!"
+    },
+    {
+     "v": "E",
+     "t": "[excited] Dank dir und deinem Team sind alle Wintervorräte wieder da!"
+    },
+    {
+     "v": "I",
+     "t": "Jetzt kommen wir gut durch den Winter. Ihr habt bewiesen, dass ihr mutig, schlau und echte Freunde des Waldes seid."
+    },
+    {
+     "v": "E",
+     "t": "Als Dankeschön haben wir für euch einen Schatz versteckt. Folgt den Spuren – und am Ende bekommt jeder von euch eine echte Waldhüter-Urkunde!"
+    },
+    {
+     "v": "I",
+     "p": true,
+     "t": "[happy] Danke, {NAME}!"
+    },
+    {
+     "v": "I",
+     "t": "[happy] Ihr seid die besten Waldhüter, die sich ein Igel und ein Eichhörnchen wünschen können!"
+    }
+   ],
+   "qr": {
+    "x": 504,
+    "y": 28
+   }
+  }
+ ],
+ "qr_farbe": "#5f7d4b"
+}

@@ -1,0 +1,234 @@
+{
+ "id": "alpaka",
+ "titel": "Wo ist das Alpaka Luna?",
+ "untertitel": "Die Schatzsuche auf dem Sonnenhof",
+ "voices": {
+  "E": {
+   "id": "tGtWQn05zwm3hVZ7EsfC",
+   "name": "Erzähler",
+   "rolle": "vom Sonnenhof",
+   "img": "sonne"
+  },
+  "L": {
+   "id": "bnDKguL8HsKn1Ma0sci1",
+   "name": "Alpaka Luna",
+   "rolle": "irgendwo auf der Farm",
+   "img": "luna"
+  }
+ },
+ "gender": {
+  "m": {},
+  "w": {}
+ },
+ "botschaften": [
+  {
+   "nr": 1,
+   "seite": 3,
+   "wer": "E",
+   "titel": "Willkommen auf dem Sonnenhof",
+   "aufgabe": "Die Farm-Ausweise ausschneiden und ausfüllen – jedes Kind bekommt einen.",
+   "teile": [
+    {
+     "v": "E",
+     "t": "Willkommen auf der Alpaka-Farm Sonnenhof. Normalerweise ist hier alles friedlich. Die Sonne scheint auf die Wiese, die Alpakas kauen gemütlich ihr Gras, und alles fühlt sich ganz normal an. Man hört nur das leise Schmatzen der Alpakas und das Rascheln im Gras. Doch damit es auf dem Sonnenhof so ruhig bleiben kann, braucht es jemanden, der gut aufpasst. Jemanden, der die Alpakas kennt und immer ein wachsames Auge auf sie hat."
+    },
+    {
+     "v": "E",
+     "p": true,
+     "t": "Und genau diese wichtige Aufgabe hast du, {NAME}! Du bist {der Alpaka-Hüter|die Alpaka-Hüterin} der Farm."
+    },
+    {
+     "v": "E",
+     "t": "Aber selbst {der beste Alpaka-Hüter|die beste Alpaka-Hüterin} kann nicht alles allein schaffen. Auf dem Sonnenhof wird im Team gearbeitet. Alle helfen mit. Alle schauen genau hin. Alle passen auf. Und was sollte jeder Farm-Mitarbeiter bei sich tragen? Einen Ausweis – damit alle sehen: Wir gehören zur Alpaka-Farm!"
+    }
+   ],
+   "bild": "sonne",
+   "qr": {
+    "x": 24,
+    "y": 27
+   }
+  },
+  {
+   "nr": 2,
+   "seite": 6,
+   "wer": "L",
+   "titel": "Auf den Spuren von Luna",
+   "aufgabe": "Lunas Spuren folgen: Wo steckt die nächste Botschaft?",
+   "teile": [
+    {
+     "v": "E",
+     "t": "Auf der Sonnenhof-Farm lebte ein flauschiges, neugieriges Alpaka namens Luna. Luna liebte Abenteuer und Überraschungen. Doch an diesem Morgen war Luna verschwunden! Aber keine Sorge: Luna hat eine Nachricht für {den Farm-Hüter|die Farm-Hüterin} und alle Mitarbeiter hinterlassen."
+    },
+    {
+     "v": "L",
+     "p": true,
+     "t": "[excited] Hallo {NAME}!"
+    },
+    {
+     "v": "L",
+     "t": "[excited] Ich bin auf Schatzsuche gegangen! Wer mich finden will, muss genauso mutig und schlau sein wie ich. Folgt meinen Spuren. Seid ihr bereit dazu?"
+    }
+   ],
+   "bild": "luna",
+   "qr": {
+    "x": 24,
+    "y": 455
+   }
+  },
+  {
+   "nr": 3,
+   "seite": 7,
+   "wer": "L",
+   "titel": "Flink wie ein Alpaka",
+   "aufgabe": "Bewegungsspiel: Hüpfen, Slalom und Springen – erst wenn alle es geschafft haben, geht es weiter.",
+   "teile": [
+    {
+     "v": "E",
+     "t": "Luna rannte über die Wiese, durch den Hof und an vielen Hindernissen vorbei. Sie war dabei ganz schön schnell und musste hüpfen, ausweichen und springen, um weiterzukommen. Luna weiß: Nur wer sich genauso gut bewegen kann wie sie, darf ihr weiter folgen."
+    },
+    {
+     "v": "L",
+     "p": true,
+     "t": "{NAME}, schaffst du es gemeinsam mit deinen Freunden, alle Hindernisse zu überqueren?"
+    },
+    {
+     "v": "L",
+     "t": "Um meinen nächsten Hinweis zu bekommen, müsst ihr alle die Aufgabe meistern!"
+    }
+   ],
+   "bild": "luna_lauf",
+   "qr": {
+    "x": 24,
+    "y": 27
+   }
+  },
+  {
+   "nr": 4,
+   "seite": 9,
+   "wer": "L",
+   "titel": "Lunas Lieblingssnack",
+   "aufgabe": "Möhren-Sammelspiel: Alle versteckten Möhren finden und ins Körbchen legen.",
+   "teile": [
+    {
+     "v": "E",
+     "t": "Luna hatte großen Hunger. Aber einfach drauflos futtern – das ging nicht. Oh nein! Die leckeren Snacks lagen überall verstreut."
+    },
+    {
+     "v": "L",
+     "t": "[sighs] Puh, vom vielen Hüpfen habe ich ja riesigen Hunger bekommen! Nur wer aufmerksam sucht und gut zusammenarbeitet, bekommt genug Kraft für das nächste Abenteuer."
+    },
+    {
+     "v": "L",
+     "p": true,
+     "t": "{NAME}, hilfst du mir, die Möhren zu finden?"
+    }
+   ],
+   "bild": "moehren",
+   "qr": {
+    "x": 24,
+    "y": 27
+   }
+  },
+  {
+   "nr": 5,
+   "seite": 12,
+   "wer": "L",
+   "titel": "Der Glitzerbach",
+   "aufgabe": "Was gehört nicht zu den Alpakas? Die Gegenstände anschauen und gemeinsam aussortieren.",
+   "teile": [
+    {
+     "v": "L",
+     "t": "[curious] Etwas Glänzendes hat mich neugierig gemacht … ein Bach! Doch hier komme ich nicht weiter. Hm, manchmal muss man nicht nur flink sein, sondern auch schlau."
+    },
+    {
+     "v": "L",
+     "p": true,
+     "t": "Ob {NAME} und die anderen Farm-Mitarbeiter den Bach überqueren könnten?"
+    },
+    {
+     "v": "E",
+     "t": "Der funkelnde Bach versperrt Luna den Weg. Bevor sie weiter überlegen kann, hat sie eine kleine Denkaufgabe für euch. Und da ihr ein Team seid, müsst ihr zusammenarbeiten – nur gemeinsam kommt ihr weiter und erhaltet den letzten Hinweis von Luna!"
+    }
+   ],
+   "bild": "bach",
+   "qr": {
+    "x": 24,
+    "y": 27
+   }
+  },
+  {
+   "nr": 6,
+   "seite": 16,
+   "wer": "L",
+   "titel": "Die Wirbelwind-Wiese",
+   "aufgabe": "Luftballon-Wettrennen: Den Ballon im Team transportieren – ohne Hände!",
+   "teile": [
+    {
+     "v": "L",
+     "t": "Der Bach war eine echte Herausforderung! Jetzt muss ich nur noch die Wirbelwind-Wiese überqueren – und dann wartet auf der anderen Seite sicher der Schatz. Gut, dass ich ein Alpaka bin, denn wir sind geschickt und beweglich."
+    },
+    {
+     "v": "L",
+     "p": true,
+     "t": "{NAME}, ich glaube an dich!"
+    },
+    {
+     "v": "E",
+     "t": "Und, liebes Farm-Team? Spürt ihr schon den Wind? Nur wer besonders geschickt ist und die richtigen Bewegungen macht, kann die Wiese erfolgreich überqueren."
+    }
+   ],
+   "bild": "wiese",
+   "qr": {
+    "x": 24,
+    "y": 27
+   }
+  },
+  {
+   "nr": 7,
+   "seite": 18,
+   "wer": "L",
+   "titel": "Die letzte Botschaft",
+   "aufgabe": "Den Wegweisern zum Schatz folgen und die Alpaka-Urkunden verteilen.",
+   "teile": [
+    {
+     "v": "E",
+     "t": "Ihr habt es geschafft und Luna zusammen mit dem Schatz gefunden! Ihr habt bewiesen, dass ihr mutig, schlau und echte Freunde seid. Als Dankeschön bekommt ihr nun eure Alpaka-Urkunde, denn ihr seid fantastische Schatzsucher."
+    },
+    {
+     "v": "E",
+     "p": true,
+     "t": "Und jetzt geht es zurück zur Sonnenhof-Farm, um {NAME} und alle Farm-Mitarbeiter zu feiern!"
+    },
+    {
+     "v": "L",
+     "t": "[happy] Danke, dass ihr mich gefunden habt! Ihr seid die besten Freunde, die sich ein Alpaka wünschen kann!"
+    }
+   ],
+   "bild": "schatz",
+   "qr": {
+    "x": 720,
+    "y": 27
+   }
+  }
+ ],
+ "cover": "cover.jpg",
+ "heft": "Alpaka-Schatzsuche",
+ "team": {
+  "m": "Alpaka-Hüter",
+  "w": "Alpaka-Hüterin"
+ },
+ "theme_color": "#f6c94f",
+ "cover_alt": "Alpaka Luna mit zwei Kindern und einer Schatztruhe",
+ "karte": "Lunas Spurenkarte",
+ "figuren": "Alpaka Luna und der Erzähler",
+ "finale": "Luna ist gefunden! Ihr seid die besten Farm-Hüter der Welt! 🦙",
+ "confetti": [
+  "#f4c64a",
+  "#e0664a",
+  "#8fbf6a",
+  "#6aa9c9",
+  "#c9895a"
+ ],
+ "gas": "",
+ "qr_farbe": "#df6a4c"
+}

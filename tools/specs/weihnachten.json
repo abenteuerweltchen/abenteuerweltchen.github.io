@@ -1,0 +1,227 @@
+{
+ "id": "weihnachten",
+ "titel": "Krümels Weihnachtsbäckerei",
+ "untertitel": "Die Weihnachts-Schatzsuche mit Maus Krümel und Spatz Pia",
+ "voices": {
+  "K": {
+   "id": "31liCzHvFCz4I8zVUWyC",
+   "name": "Maus Krümel",
+   "img": "kruemel"
+  },
+  "P": {
+   "id": "1wGZFfkTB5SqH9ePvbjQ",
+   "name": "Spatz Pia",
+   "img": "pia"
+  }
+ },
+ "theme_color": "#b23a32",
+ "cover_alt": "Weihnachtliche Backstube mit Teigschüssel und Kerzen",
+ "karte": "Krümels Zutaten-Karte",
+ "figuren": "Maus Krümel und Spatz Pia",
+ "finale": "Alle Zutaten sind da! Frohe Weihnachten, liebes Backstuben-Team! 🍪",
+ "confetti": [
+  "#b23a32",
+  "#e9b949",
+  "#3f7a52",
+  "#f4e3c3",
+  "#d97b4f"
+ ],
+ "gas": "",
+ "botschaften": [
+  {
+   "nr": 1,
+   "seite": 2,
+   "wer": "K",
+   "titel": "Ein Hilferuf aus der Küche",
+   "bild": "kruemel",
+   "aufgabe": "Die Backstuben-Ausweise ausschneiden und ausfüllen – jedes Kind bekommt einen.",
+   "teile": [
+    {
+     "v": "K",
+     "t": "[excited] Hallo liebes Backstuben-Team! Ich bin Krümel, die kleine Hausmaus. Ich wohne hinter dem Küchenschrank und wollte für alle Tiere im Haus Weihnachtsplätzchen backen. [nervous] Doch dann ist Kater Moritz aufgewacht! Vor Schreck bin ich davongeflitzt – und jetzt liegen meine Zutaten im ganzen Haus verstreut."
+    },
+    {
+     "v": "K",
+     "p": true,
+     "t": "Ich habe gehört, dass du, {NAME}, die beste Plätzchen-Spürnase weit und breit bist. Kannst du unser Backstuben-Team anführen?"
+    },
+    {
+     "v": "K",
+     "t": "Zuerst braucht jeder einen Backstuben-Ausweis – damit alle wissen: Ihr gehört zur Weihnachtsbäckerei!"
+    }
+   ],
+   "qr": {
+    "x": 736,
+    "y": 24,
+    "scale": 0.85
+   }
+  },
+  {
+   "nr": 2,
+   "seite": 6,
+   "wer": "P",
+   "titel": "Psst – Kater Moritz schläft",
+   "bild": "moritz",
+   "aufgabe": "Schleich am Kater vorbei: Ganz leise das Mehl holen, ohne dass Moritz aufwacht.",
+   "teile": [
+    {
+     "v": "P",
+     "p": true,
+     "t": "[cheerful] Hallo {NAME}!"
+    },
+    {
+     "v": "P",
+     "t": "[cheerful] Ich bin Pia, der Spatz vom Fensterbrett! Ich habe alles beobachtet: Krümels Mehl liegt direkt neben dem Korb von Kater Moritz."
+    },
+    {
+     "v": "K",
+     "t": "[whispers] Oh nein! Moritz schläft zwar tief und fest, aber er hat sehr gute Ohren. Wir müssen uns ganz leise anschleichen. Schafft ihr das, ohne dass Moritz aufwacht?"
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 3,
+   "seite": 8,
+   "wer": "P",
+   "titel": "Ausstecher-Durcheinander",
+   "bild": "plaetzchen",
+   "aufgabe": "Krümels Plätzchen-Blech: Jedes Plätzchen nur einmal pro Reihe, Spalte und Viertel legen.",
+   "teile": [
+    {
+     "v": "P",
+     "p": true,
+     "t": "Super gemacht, {NAME}!"
+    },
+    {
+     "v": "P",
+     "t": "Das Mehl ist gerettet. Aber schaut mal in die Ausstecher-Kiste: Beim Wegflitzen hat Krümel alle Plätzchen-Formen durcheinandergebracht."
+    },
+    {
+     "v": "K",
+     "t": "[sheepish] Hihi, das war ich. Erst muss Ordnung aufs Plätzchen-Blech: In jeder Reihe, jeder Spalte und jedem Viertel darf jedes Plätzchen nur einmal liegen. Schafft ihr das?"
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 4,
+   "seite": 11,
+   "wer": "K",
+   "titel": "Überall Schokosterne",
+   "bild": "stern",
+   "aufgabe": "Schokosterne sammeln: Alle versteckten Sterne finden – aber nicht naschen!",
+   "teile": [
+    {
+     "v": "K",
+     "p": true,
+     "t": "[excited] Hurra, {NAME}, der Zucker ist da!"
+    },
+    {
+     "v": "K",
+     "t": "Jetzt fehlt noch die Schokolade. Aber oje: Meine Tüte mit den Schokosternen ist geplatzt – die Sterne sind durch das ganze Zimmer gekullert."
+    },
+    {
+     "v": "P",
+     "t": "Von meinem Fensterbrett aus sehe ich überall kleine Sterne blitzen. Sammelt ihr sie alle ein? [laughs] Aber nicht naschen!"
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 5,
+   "seite": 14,
+   "wer": "P",
+   "titel": "Pias Fensterrätsel",
+   "bild": "pia",
+   "aufgabe": "Pias Geheimschrift entschlüsseln: Welche Zutat steckt hinter den Zeichen?",
+   "teile": [
+    {
+     "v": "P",
+     "p": true,
+     "t": "Toll gemacht, {NAME}, und Backstuben-Team!"
+    },
+    {
+     "v": "P",
+     "t": "Die Schokolade habt ihr! Von meinem Fensterbrett aus habe ich die nächste Zutat entdeckt. Aber ich verrate sie euch nur in meiner Geheimschrift."
+    },
+    {
+     "v": "K",
+     "t": "[excited] Oh, ich liebe Rätsel! Findet heraus, welcher Buchstabe hinter welchem Zeichen steckt – dann wissen wir, was wir als Nächstes suchen."
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 6,
+   "seite": 17,
+   "wer": "K",
+   "titel": "Der Teig-Tanz",
+   "bild": "kinder",
+   "aufgabe": "Teig-Tanz mit dem Würfel: Kneten, rollen, hüpfen – bis die Butter weich ist.",
+   "teile": [
+    {
+     "v": "K",
+     "p": true,
+     "t": "Mehl, Zucker, Schokolade und Zimt – fast alles ist da, {NAME}!"
+    },
+    {
+     "v": "K",
+     "t": "Nur die Butter fehlt noch. Und die ist im Kühlschrank ganz hart geworden."
+    },
+    {
+     "v": "P",
+     "t": "[cheerful] Weiche Butter bekommt man durch Bewegung! Wenn ihr kräftig knetet, rollt und hüpft, wird es in der Küche schön warm. Würfelt los!"
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  },
+  {
+   "nr": 7,
+   "seite": 20,
+   "wer": "K",
+   "titel": "Alle Zutaten sind da",
+   "bild": "dose",
+   "aufgabe": "Krümels Schatz-Puzzle zusammensetzen, das Versteck finden und die Urkunden verteilen.",
+   "teile": [
+    {
+     "v": "K",
+     "t": "[excited] Mehl, Zucker, Schokolade, Zimt und Butter – ihr habt alles gefunden!"
+    },
+    {
+     "v": "K",
+     "p": true,
+     "t": "Danke, {NAME}, und danke an das ganze Backstuben-Team!"
+    },
+    {
+     "v": "P",
+     "t": "Weil ihr so toll geholfen habt, hat Krümel eine Überraschung für euch versteckt. Setzt das Puzzle zusammen – dann wisst ihr, wo ihr suchen müsst!"
+    },
+    {
+     "v": "K",
+     "t": "[happy] Ihr seid das beste Backstuben-Team, das sich eine kleine Maus wünschen kann. Frohe Weihnachten!"
+    }
+   ],
+   "qr": {
+    "x": 24,
+    "y": 28
+   }
+  }
+ ],
+ "qr_farbe": "#b8402f"
+}

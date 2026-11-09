@@ -1,0 +1,24 @@
+/* Weihnachten „Krümels Weihnachtsbäckerei“ – Weihnachtsrot, Tannengrün, Gold, warme Backstube */
+:root{
+  --bg:#fbf5ec; --paper:#fffdf8; --ink:#4a3a30; --muted:#8a7565; --title:#7a2f2a; --accent:#b8402f;
+  --box:#c4473a; --box-d:#9d3329; --box-ink:#fff6e6; --play:#e8b84a; --play-d:#c08f22; --screen:#fff8ea; --line:#efdcc6;
+}
+body{background:linear-gradient(180deg,#f5e4d2 0,#f9eee2 240px,var(--bg) 520px) no-repeat,var(--bg)}
+/* leise fallende Schneeflocken */
+.deko{position:fixed;inset:0;pointer-events:none;opacity:.7;
+  background-image:radial-gradient(2px 2px at 10% 20%,#fff 60%,transparent),radial-gradient(3px 3px at 30% 60%,#fff 60%,transparent),
+  radial-gradient(2px 2px at 55% 30%,#fff 60%,transparent),radial-gradient(3px 3px at 80% 70%,#fff 60%,transparent),
+  radial-gradient(2px 2px at 90% 15%,#fff 60%,transparent),radial-gradient(2px 2px at 70% 45%,#fff 60%,transparent);
+  background-size:320px 320px;animation:schnee 18s linear infinite}
+@keyframes schnee{to{background-position:0 320px}}
+.big{background:radial-gradient(circle at 35% 30%,#fff0b8,var(--play) 58%,var(--play-d))}
+.big svg{fill:#7a2f2a}
+.small{background:rgba(255,255,255,.22);color:var(--box-ink)} .small svg{fill:var(--box-ink)}
+#box{background:linear-gradient(180deg,var(--box),var(--box-d));box-shadow:inset 0 0 0 4px rgba(232,184,74,.55),0 10px 0 -2px rgba(0,0,0,.12),var(--shadow)}
+#box::before{border-color:#3f7a52}
+.wave i{background:#3f7a52}
+.hero .cover{border:6px solid #fff;transform:rotate(-1deg)}
+.stop[aria-current=true]{background:#fff4e4;border-color:var(--box)}
+#map::before{border-left-color:#d9b98f}
+.forchip{border-color:#3f7a52;color:#3f7a52}
+.hero .cover{aspect-ratio:842/595}

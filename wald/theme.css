@@ -1,0 +1,21 @@
+/* Wald „Die verlorene Vorratskammer“ – Moosgrün, Rindenbraun, Fliegenpilz-Rot, Herbstlaub */
+:root{
+  --bg:#f7f2e6; --paper:#fffcf4; --ink:#3f3a30; --muted:#7c7260; --title:#3f5b45; --accent:#c4552f;
+  --box:#7f9e66; --box-d:#5f7d4b; --box-ink:#fffbea; --play:#e9a23b; --play-d:#bf7a1d; --screen:#fbf5e3; --line:#e6dcc4;
+}
+body{background:linear-gradient(180deg,#dfe9d2 0,#eef0df 260px,var(--bg) 560px) no-repeat,var(--bg)}
+/* Baumkronen-Silhouette oben */
+.deko{position:absolute;left:0;right:0;top:0;height:210px;pointer-events:none;opacity:.55;
+  background:radial-gradient(60px 46px at 6% 0,#9bb784 98%,transparent),radial-gradient(80px 60px at 24% -10px,#a9c291 98%,transparent),
+  radial-gradient(70px 52px at 46% -6px,#93b07c 98%,transparent),radial-gradient(90px 64px at 70% -14px,#a9c291 98%,transparent),
+  radial-gradient(64px 50px at 94% 0,#93b07c 98%,transparent)}
+.big{background:radial-gradient(circle at 35% 30%,#ffd98f,var(--play) 58%,var(--play-d))}
+.big svg{fill:#4a3412}
+.small{background:rgba(255,255,255,.25);color:var(--box-ink)} .small svg{fill:var(--box-ink)}
+.screen{color:var(--ink)}
+.wave i{background:#7f9e66}
+.hero .cover{border:6px solid #fff;transform:rotate(1deg)}
+.stop[aria-current=true]{background:#f3f6e8;border-color:var(--box)}
+#map::before{border-left-color:#c9b58e}
+.stop .pic{background:#f1f3e3}
+.hero .cover{aspect-ratio:842/595}

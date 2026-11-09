@@ -1,0 +1,16 @@
+/* Alpaka „Wo ist das Alpaka Luna?“ – Sonnenhof: Himmelblau, Sonnengelb, Wiesengrün, Terrakotta wie im Heft */
+:root{
+  --bg:#fdf8ec; --paper:#fffdf7; --ink:#4d4339; --muted:#8a7a68; --title:#4a6378; --accent:#df6a4c;
+  --box:#f8d25e; --box-d:#e4ad35; --box-ink:#56401a; --play:#82c35e; --play-d:#549a3a; --screen:#fff6dc; --line:#efe1c4;
+}
+body{background:linear-gradient(180deg,#cfe9f4 0,#e6f3f2 230px,var(--bg) 520px) no-repeat,var(--bg)}
+/* Sonnenstrahlen hinter dem Titelbild */
+.deko{position:absolute;left:50%;top:-140px;width:760px;height:760px;transform:translateX(-50%);pointer-events:none;
+  background:repeating-conic-gradient(from 0deg,rgba(255,215,110,.28) 0 7deg,transparent 7deg 18deg);
+  -webkit-mask:radial-gradient(circle,#000 0,#000 30%,transparent 62%);mask:radial-gradient(circle,#000 0,#000 30%,transparent 62%)}
+.hero .cover{border:6px solid #fff;transform:rotate(-1.2deg)}
+.hero h1{color:#4a6378}
+/* kleine Wiese unter der Schatzkarte */
+#map{background:radial-gradient(120% 60% at 50% 100%,rgba(130,195,94,.18),transparent 70%)}
+#map::before{border-left-style:dotted;border-left-color:#d8b989}
+.stop .pic{background:#f3f8ea}

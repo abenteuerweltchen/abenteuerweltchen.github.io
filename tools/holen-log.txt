@@ -1,0 +1,16 @@
+OK alpaka/audio/b1_1.mp3 466057
+OK alpaka/audio/b1_3_m.mp3 372852
+OK alpaka/audio/b1_3_w.mp3 381629
+OK alpaka/audio/b2_1_m.mp3 312666
+OK alpaka/audio/b2_1_w.mp3 315173
+OK alpaka/audio/b2_3.mp3 153841
+OK alpaka/audio/b3_1.mp3 298455
+OK alpaka/audio/b3_3.mp3 87386
+OK alpaka/audio/b4_1.mp3 168052
+OK alpaka/audio/b4_2.mp3 203996
+OK alpaka/audio/b5_1.mp3 202324
+OK alpaka/audio/b5_3.mp3 285916
+OK alpaka/audio/b6_1.mp3 248718
+OK alpaka/audio/b6_3.mp3 193547
+OK alpaka/audio/b7_1.mp3 292186
+OK alpaka/audio/b7_3.mp3 105358

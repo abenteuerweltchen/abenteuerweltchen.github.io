@@ -28,7 +28,7 @@ window.SCHATZ={
  "botschaften": [
   {
    "nr": 1,
-   "seite": 3,
+   "seite": 2,
    "wer": "E",
    "titel": "Willkommen auf dem Sonnenhof",
    "aufgabe": "Die Farm-Ausweise ausschneiden und ausfüllen – jedes Kind bekommt einen.",
@@ -51,7 +51,7 @@ window.SCHATZ={
   },
   {
    "nr": 2,
-   "seite": 6,
+   "seite": 5,
    "wer": "L",
    "titel": "Auf den Spuren von Luna",
    "aufgabe": "Lunas Spuren folgen: Wo steckt die nächste Botschaft?",
@@ -74,7 +74,7 @@ window.SCHATZ={
   },
   {
    "nr": 3,
-   "seite": 7,
+   "seite": 6,
    "wer": "L",
    "titel": "Flink wie ein Alpaka",
    "aufgabe": "Bewegungsspiel: Hüpfen, Slalom und Springen – erst wenn alle es geschafft haben, geht es weiter.",
@@ -96,7 +96,7 @@ window.SCHATZ={
   },
   {
    "nr": 4,
-   "seite": 9,
+   "seite": 8,
    "wer": "L",
    "titel": "Lunas Lieblingssnack",
    "aufgabe": "Möhren-Sammelspiel: Alle versteckten Möhren finden und ins Körbchen legen.",
@@ -118,7 +118,7 @@ window.SCHATZ={
   },
   {
    "nr": 5,
-   "seite": 12,
+   "seite": 11,
    "wer": "L",
    "titel": "Der Glitzerbach",
    "aufgabe": "Was gehört nicht zu den Alpakas? Die Gegenstände anschauen und gemeinsam aussortieren.",
@@ -140,7 +140,7 @@ window.SCHATZ={
   },
   {
    "nr": 6,
-   "seite": 16,
+   "seite": 15,
    "wer": "L",
    "titel": "Die Wirbelwind-Wiese",
    "aufgabe": "Luftballon-Wettrennen: Den Ballon im Team transportieren – ohne Hände!",
@@ -162,7 +162,7 @@ window.SCHATZ={
   },
   {
    "nr": 7,
-   "seite": 18,
+   "seite": 17,
    "wer": "L",
    "titel": "Die letzte Botschaft",
    "aufgabe": "Den Wegweisern zum Schatz folgen und die Alpaka-Urkunden verteilen.",

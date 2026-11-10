@@ -93,7 +93,7 @@ var PERSONAL = [
  }
 ];
 // QR-Karten: Seite (Position im Heft), linke untere Ecke in pt, Farbe
-var QRS = [{"b": 1, "pos": 3, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 2, "pos": 6, "color": "#df6a4c", "x": 24, "y": 455}, {"b": 3, "pos": 7, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 4, "pos": 9, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 5, "pos": 12, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 6, "pos": 16, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 7, "pos": 18, "color": "#df6a4c", "x": 720, "y": 27}];
+var QRS = [{"b": 1, "pos": 2, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 2, "pos": 5, "color": "#df6a4c", "x": 24, "y": 455}, {"b": 3, "pos": 6, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 4, "pos": 8, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 5, "pos": 11, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 6, "pos": 15, "color": "#df6a4c", "x": 24, "y": 27}, {"b": 7, "pos": 17, "color": "#df6a4c", "x": 720, "y": 27}];
 
 // ---------------- Make → neue Bestellung ----------------
 function doPost(e) { return json_(bestellung_((e && e.parameter) || {})); }

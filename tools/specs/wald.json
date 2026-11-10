@@ -30,7 +30,7 @@
  "botschaften": [
   {
    "nr": 1,
-   "seite": 3,
+   "seite": 2,
    "wer": "E",
    "titel": "Ein Hilferuf aus dem Unterholz",
    "bild": "emil",
@@ -74,7 +74,7 @@
   },
   {
    "nr": 2,
-   "seite": 6,
+   "seite": 5,
    "wer": "E",
    "titel": "Spuren im Wald",
    "bild": "spuren",
@@ -105,7 +105,7 @@
   },
   {
    "nr": 3,
-   "seite": 9,
+   "seite": 8,
    "wer": "I",
    "titel": "Flink wie ein Waldtier",
    "bild": "kinder",
@@ -132,7 +132,7 @@
   },
   {
    "nr": 4,
-   "seite": 11,
+   "seite": 10,
    "wer": "E",
    "titel": "Zeit für einen Snack",
    "bild": "snack",
@@ -159,7 +159,7 @@
   },
   {
    "nr": 5,
-   "seite": 14,
+   "seite": 13,
    "wer": "I",
    "titel": "Leise wie kleine Waldmäuse",
    "bild": "maus",
@@ -186,7 +186,7 @@
   },
   {
    "nr": 6,
-   "seite": 16,
+   "seite": 15,
    "wer": "E",
    "titel": "Ein brummiger Waldbewohner",
    "bild": "wildschwein",
@@ -217,7 +217,7 @@
   },
   {
    "nr": 7,
-   "seite": 18,
+   "seite": 17,
    "wer": "E",
    "titel": "Die Vorratskammer ist wieder voll",
    "bild": "truhe",

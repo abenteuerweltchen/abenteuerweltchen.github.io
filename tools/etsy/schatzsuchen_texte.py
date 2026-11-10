@@ -16,7 +16,7 @@ Dein Kind scannt den QR-Code im Heft – und Alpaka Luna ruft es persönlich bei
 Perfekt für den Kindergeburtstag, Regentage oder als besonderes Geschenk. Für Kinder von 5–8 Jahren, drinnen und draußen spielbar.""",
  verstecken="Wegweiser verstecken",
  bekommst="""📦 Du bekommst
-• Personalisierte Schatzsuche als PDF (20 Seiten, DIN A4 quer) – mit dem Namen deines Kindes
+• Personalisierte Schatzsuche als PDF (19 Seiten, DIN A4 quer) – mit dem Namen deines Kindes
 • Persönliches Hörspiel: 7 Botschaften von Alpaka Luna und dem Erzähler, die dein Kind mit seinem Namen ansprechen
 • QR-Code auf jeder Botschafts-Seite: Handy-Kamera drauf, grüner Knopf – Botschaft läuft. Keine App, kein Download, kein Account
 • 5 Spiele & Bastelaktionen: Ausweise basteln, Bewegungsspiel, Möhren-Sammelspiel, Rätsel „Was gehört nicht zu den Alpakas?“, Luftballon-Wettrennen
@@ -36,7 +36,7 @@ QR-Code scannen – und Eichhörnchen Emil und Igel Iwan rufen dein Kind persön
 Perfekt für den Kindergeburtstag, Waldtage oder als besonderes Geschenk. Für Kinder von 5–8 Jahren, drinnen und draußen spielbar.""",
  verstecken="Spuren verstecken",
  bekommst="""📦 Du bekommst
-• Personalisierte Schatzsuche als PDF (20 Seiten, DIN A4 quer) – mit dem Namen deines Kindes
+• Personalisierte Schatzsuche als PDF (19 Seiten, DIN A4 quer) – mit dem Namen deines Kindes
 • Persönliches Hörspiel: 7 Botschaften von Emil und Iwan, die dein Kind mit seinem Namen ansprechen
 • QR-Code auf jeder Botschafts-Seite: Handy-Kamera drauf, grüner Knopf – Botschaft läuft. Keine App, kein Download, kein Account
 • 6 Spiele & Bastelaktionen: Ausweise basteln, Spurenleser-Spiel, Bewegungsspiel, Snack-Sammelspiel, Tannenzapfen-Wettrennen, Vorräte-Staffel

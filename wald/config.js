@@ -25,7 +25,7 @@ window.SCHATZ={
  "botschaften": [
   {
    "nr": 1,
-   "seite": 3,
+   "seite": 2,
    "wer": "E",
    "titel": "Ein Hilferuf aus dem Unterholz",
    "aufgabe": "Die Waldhüter-Ausweise ausschneiden und ausfüllen – jedes Kind bekommt einen.",
@@ -63,7 +63,7 @@ window.SCHATZ={
   },
   {
    "nr": 2,
-   "seite": 6,
+   "seite": 5,
    "wer": "E",
    "titel": "Spuren im Wald",
    "aufgabe": "Spurenleser-Spiel: Jede Fußspur dem richtigen Waldtier zuordnen.",
@@ -89,7 +89,7 @@ window.SCHATZ={
   },
   {
    "nr": 3,
-   "seite": 9,
+   "seite": 8,
    "wer": "I",
    "titel": "Flink wie ein Waldtier",
    "aufgabe": "Bewegungsspiel: Balancieren, Hüpfen und Slalom – flink wie echte Waldtiere.",
@@ -111,7 +111,7 @@ window.SCHATZ={
   },
   {
    "nr": 4,
-   "seite": 11,
+   "seite": 10,
    "wer": "E",
    "titel": "Zeit für einen Snack",
    "aufgabe": "Snack-Sammelspiel: Alle versteckten Waldfrüchte und Nüsse finden.",
@@ -133,7 +133,7 @@ window.SCHATZ={
   },
   {
    "nr": 5,
-   "seite": 14,
+   "seite": 13,
    "wer": "I",
    "titel": "Leise wie kleine Waldmäuse",
    "aufgabe": "Tannenzapfen-Wettrennen: Den Zapfen auf dem Kopf ins Ziel balancieren.",
@@ -155,7 +155,7 @@ window.SCHATZ={
   },
   {
    "nr": 6,
-   "seite": 16,
+   "seite": 15,
    "wer": "E",
    "titel": "Ein brummiger Waldbewohner",
    "aufgabe": "Vorräte-Staffel: Die Vorräte mit dem Löffel zurück in die Kammer tragen.",
@@ -181,7 +181,7 @@ window.SCHATZ={
   },
   {
    "nr": 7,
-   "seite": 18,
+   "seite": 17,
    "wer": "E",
    "titel": "Die Vorratskammer ist wieder voll",
    "aufgabe": "Den Spuren zum Schatz folgen und die Waldhüter-Urkunden verteilen.",
